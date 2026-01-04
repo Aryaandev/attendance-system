@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+instance/
+attendance.db
+*.sqlite3
